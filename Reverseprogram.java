@@ -6,7 +6,7 @@ public class Reverseprogram
 public static void main(String []agrs)
 {
 
-	String A="yogita Patil";
+	String A="XYZ";
 	String Rev=" ";
 
 	for(int i=0;i<=A.length()-1;i++)
